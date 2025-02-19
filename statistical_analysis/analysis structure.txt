@@ -1,0 +1,85 @@
+
+### **Graphical Analysis**
+1. **Histogram of Card Brands**  
+   - Number of users for each **card brand** (Visa, Mastercard, etc.).
+   - Subdivide the histogram by **card_type** (Credit, Debit, Prepaid).
+
+2. **Bar Chart of Card Types**  
+   - Number of users by **card type** (Credit, Debit, Prepaid).
+
+3. **Pie Chart of Card Brand Distribution**  
+   - Proportion of different card brands in the dataset.
+
+4. **Pie Chart of Card Type Distribution**  
+   - Proportion of different card types (Credit, Debit, Prepaid).
+
+5. **Histogram of Credit Limits**  
+   - Distribution of **credit_limit** to see how limits vary across users.
+
+6. **Box Plot of Credit Limits per Card Type**  
+   - Compare credit limits between **credit, debit, and prepaid cards**.
+
+7. **Box Plot of Credit Limits per Card Brand**  
+   - Compare the **credit limit** distribution for Visa, Mastercard, etc.
+
+8. **Histogram of Number of Cards Issued**  
+   - Shows how many users have **one or multiple cards**.
+
+9. **Time-Series Analysis of Account Opening Dates**  
+   - Line chart showing the **trend of account openings over time**.
+
+10. **Time-Series Analysis of PIN Changes**  
+   - Line chart showing the **trend of year-wise PIN changes**.
+
+11. **Bar Chart of Cards Issued per Year**  
+   - Number of **cards issued** each year.
+
+12. **Scatter Plot of Account Opening Date vs. Credit Limit**  
+   - See if older accounts have **higher credit limits**.
+
+13. **Stacked Bar Chart: Card Expiry Trends by Year**  
+   - Number of cards expiring in each year.
+
+14. **Count of Cards with and without Chip**  
+   - Bar chart of how many cards have a **chip vs. no chip**.
+
+---
+
+### **Numerical Analysis**
+1. **Descriptive Statistics**  
+   - Mean, median, mode, standard deviation of **credit_limit**.
+   - Distribution of **num_cards_issued**.
+
+2. **Correlation Analysis**  
+   - Check correlation between **credit_limit, num_cards_issued, and acct_open_date**.
+
+3. **Credit Limit Analysis per Card Brand**  
+   - Find the **average credit limit per card brand**.
+
+4. **Credit Limit Analysis per Card Type**  
+   - Find the **average credit limit per card type**.
+
+5. **Percentage of Cards with Chip vs. No Chip**  
+   - Find out how many users still use **non-chip cards**.
+
+6. **Client-Level Analysis**  
+   - Find the **average number of cards per client**.
+
+7. **Oldest and Newest Accounts**  
+   - Find the **oldest and most recent** account opening dates.
+
+---
+
+### **Advanced Analysis**
+1. **Credit Limit Prediction Model**  
+   - Use **regression analysis** to predict **credit limit** based on the **number of cards, card type, account age, etc.**.
+
+2. **Survival Analysis of Cards**  
+   - Estimate how long users keep their **cards before changing them**.
+
+3. **Anomaly Detection**  
+   - Find outliers in **credit limits, number of cards issued, and expiry dates**.
+
+4. **Clustering Analysis**  
+   - Group users based on **credit limits and card usage patterns**.
+
