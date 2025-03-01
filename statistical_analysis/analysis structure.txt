@@ -74,12 +74,9 @@
 1. **Credit Limit Prediction Model**  
    - Use **regression analysis** to predict **credit limit** based on the **number of cards, card type, account age, etc.**.
 
-2. **Survival Analysis of Cards**  
-   - Estimate how long users keep their **cards before changing them**.
-
-3. **Anomaly Detection**  
+2. **Anomaly Detection**  
    - Find outliers in **credit limits, number of cards issued, and expiry dates**.
 
-4. **Clustering Analysis**  
+3. **Clustering Analysis**  
    - Group users based on **credit limits and card usage patterns**.
 
